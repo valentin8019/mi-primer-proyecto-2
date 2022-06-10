@@ -4,7 +4,12 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "BitBot": "github:4tronix/BitBot#1.5.2",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.0",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.8",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.1.7"
     },
     "files": [
         "main.blocks",
